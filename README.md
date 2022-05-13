@@ -1,5 +1,5 @@
-#maldec-links
-Collection of malware dev and red team tradecraft I have stored over time. View as raw, my formatting sucks.
+# maldev-links  
+### Collection of malware dev and red team tradecraft I have stored over time. View as raw, my formatting sucks.
 https://blog.malwarebytes.com/threat-intelligence/2022/01/north-koreas-lazarus-apt-leverages-windows-update-client-github-in-latest-campaign/ <û interesting macro they used the kernel callback table to execute code
 https://gitlab.com/hack-tech/red-team-dev/-/tree/master/DLL_Template_Resource_Loader
 https://www.ctus.io/2021/06/29/cause-effect-ive-c2/
