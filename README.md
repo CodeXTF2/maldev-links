@@ -1,5 +1,5 @@
 # maldev-links
-My collection of malware dev links + red team tradecraft I picked up over time. Just stuff I found interesting.
+My collection of malware dev links + red team tradecraft I picked up over time. Just stuff I found interesting. View as raw.
 
 https://blog.malwarebytes.com/threat-intelligence/2022/01/north-koreas-lazarus-apt-leverages-windows-update-client-github-in-latest-campaign/ <– interesting macro they used the kernel callback table to execute code
 https://gitlab.com/hack-tech/red-team-dev/-/tree/master/DLL_Template_Resource_Loader
