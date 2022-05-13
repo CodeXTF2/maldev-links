@@ -54,7 +54,7 @@ https://github.com/Azure/caf-terraform-landingzones <√ Infra as Code for Azure
 https://posts.specterops.io/announcing-azure-in-bloodhound-enterprise-b1a900557cda <√ Azure in BloodHound Enterprise
 https://github.com/Azure/caf-terraform-landingzones <-- Infra as Code for Azure's landing zone
 https://www.youtube.com/watch?v=B2CYOIAFt44&ab_channel=ArnaudLheureux
-https://aztfmod.github.io/documentation/ 
+https://aztfmod.github.io/documentation/   
 https://github.com/aztfmod/rover
 https://medium.com/@bertinjoseb/post-auth-rce-based-in-malicious-lua-plugin-script-upload-scada-controllers-located-in-russia-57044425ac38
 https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-019-1361-0 <√ Phishing page detection via learning classifiers from page layout feature
@@ -113,4 +113,5 @@ https://captmeelo.com/redteam/maldev/2022/02/16/libraries-for-maldev.html
 https://blog.nviso.eu/2022/02/22/kernel-karnage-part-9-finishing-touches/
 https://blog.nviso.eu/2022/02/22/kernel-karnage-part-9-finishing-touches/
 https://youtu.be/3RQb05ITSyk
+
 
