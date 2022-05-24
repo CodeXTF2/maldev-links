@@ -140,7 +140,7 @@ Massive thanks to @janoglezcampos for fixing my trash formatting and categorizin
 * [We Put A C2 In Your Notetaking App: OffensiveNotion](https://medium.com/@huskyhacks.mk/we-put-a-c2-in-your-notetaking-app-offensivenotion-3e933bace332)
 * [Building C2 implants in C++](https://shogunlab.gitbook.io/building-c2-implants-in-cpp-a-primer/)
 
-## Thread Hunting
+## Threat Hunting
 
 * [72-page eBook describing Endgame’s solution to hunting advanced cyberthreats](https://cyber-edge.com/resources/the-endgame-guide-to-threat-hunting/)
 * [TiEtwAgent – ETW-based process injection detection (cant unhook from userland)](https://securityonline.info/tietwagent-etw-based-process-injection-detection/)
