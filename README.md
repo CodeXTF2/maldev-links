@@ -66,6 +66,7 @@ Massive thanks to @janoglezcampos for fixing my trash formatting and categorizin
 * [Automating a Red Team Lab (Part 2): Monitoring and Logging](https://nickzero.co.uk/automating-a-red-team-lab-part-2/)
 * [Announcing Azure in BloodHound Enterprise](https://posts.specterops.io/announcing-azure-in-bloodhound-enterprise-b1a900557cda)
 * [AD Trusts](https://medium.com/sse-blog/active-directory-spotlight-trusts-part-2-operational-guidance-ada54ac3bf13) 
+* [Learn AD basics](https://www.udemy.com/course/active-directory/)
 ## Initial Access
 
 * [How to Deliver Payloads in an Enterprise Attack with Steve Borosh](https://www.youtube.com/watch?v=vVueJfWmpGc)
