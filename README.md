@@ -42,9 +42,6 @@ Massive thanks to @janoglezcampos for fixing my trash formatting and categorizin
 * [Unhooking Sentinel1](https://twitter.com/ninjaparanoid/status/1493396083644399616?s=21)
 * [Kernel Karnage – Part 9 (Finishing Touches)](https://blog.nviso.eu/2022/02/22/kernel-karnage-part-9-finishing-touches/)
 
-## Blue Teaming - knowing our enemy's tech
-* [Endgame guide to threat hunting](https://cyber-edge.com/resources/the-endgame-guide-to-threat-hunting/)
-* [Detection Engineering](https://www.unh4ck.com/detection-engineering-dimensions)
 
 ## Campaing/Operation analysis
 
@@ -147,10 +144,11 @@ Massive thanks to @janoglezcampos for fixing my trash formatting and categorizin
 * [We Put A C2 In Your Notetaking App: OffensiveNotion](https://medium.com/@huskyhacks.mk/we-put-a-c2-in-your-notetaking-app-offensivenotion-3e933bace332)
 * [Building C2 implants in C++](https://shogunlab.gitbook.io/building-c2-implants-in-cpp-a-primer/)
 
-## Threat Hunting
+## Blue Team - how we get burnt
 
 * [72-page eBook describing Endgame’s solution to hunting advanced cyberthreats](https://cyber-edge.com/resources/the-endgame-guide-to-threat-hunting/)
 * [TiEtwAgent – ETW-based process injection detection (cant unhook from userland)](https://securityonline.info/tietwagent-etw-based-process-injection-detection/)
+* [Detection Engineering](https://www.unh4ck.com/detection-engineering-dimensions)
 
 ## Notes
 
