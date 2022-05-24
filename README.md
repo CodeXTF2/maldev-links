@@ -1,7 +1,10 @@
 # maldev links
 Massive thanks to @janoglezcampos for fixing my trash formatting and categorizing it. Now it wont give you eye cancer.
 
-## Av/Edr Evasion
+## Evasion/Execution techs
+
+* [Process injection sample codes](https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop)
+* [Python library for ML evasion and detection etc](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 * [Massive guide on bypassing anticheat and antidebug - also works in malware against EDRs](https://guidedhacking.com/forums/anticheat-bypass-antidebug-tutorials.46/)
 * [SysWhispers is dead, long live SysWhispers!](https://klezvirus.github.io/RedTeaming/AV_Evasion/NoSysWhisper/)
 * [3in1: Project aimed to Bypass Some Av Products, Using Different, Advanced Features](https://gitlab.com/ORCA666/3in1)
@@ -88,6 +91,7 @@ Massive thanks to @janoglezcampos for fixing my trash formatting and categorizin
 
 ## Tools
 
+* [in memory lsass dumper using syscalls](https://github.com/helpsystems/nanodump)
 * [Walter Planner: Attack path planner](https://jackson_t.gitlab.io/walter-planner/)
 * [NimPackt-v1: A Nim-based packer for .NET executables and raw shellcode](https://github.com/chvancooten/NimPackt-v1)
 * [PackMyPayload: Payload Containerization](https://github.com/mgeeky/PackMyPayload)
