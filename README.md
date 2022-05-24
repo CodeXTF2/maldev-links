@@ -1,4 +1,4 @@
-# maldev links
+# redteam/maldev links
 Massive thanks to @janoglezcampos for fixing my trash formatting and categorizing it. Now it wont give you eye cancer.
 
 ## Evasion/Execution techs
@@ -42,6 +42,9 @@ Massive thanks to @janoglezcampos for fixing my trash formatting and categorizin
 * [Unhooking Sentinel1](https://twitter.com/ninjaparanoid/status/1493396083644399616?s=21)
 * [Kernel Karnage – Part 9 (Finishing Touches)](https://blog.nviso.eu/2022/02/22/kernel-karnage-part-9-finishing-touches/)
 
+## Blue Teaming - knowing our enemy's tech
+* [Endgame guide to threat hunting](https://cyber-edge.com/resources/the-endgame-guide-to-threat-hunting/)
+* [Detection Engineering](https://www.unh4ck.com/detection-engineering-dimensions)
 
 ## Campaing/Operation analysis
 
