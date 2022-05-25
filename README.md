@@ -4,6 +4,7 @@ Massive thanks to @janoglezcampos for fixing my trash formatting and categorizin
 ## Evasion/Execution techs
 
 * [Process injection sample codes](https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop)
+* [KnownDLLs injection](https://www.codeproject.com/Articles/325603/Injection-into-a-Process-Using-KnownDlls)
 * [Python library for ML evasion and detection etc](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 * [Massive guide on bypassing anticheat and antidebug - also works in malware against EDRs](https://guidedhacking.com/forums/anticheat-bypass-antidebug-tutorials.46/)
 * [SysWhispers is dead, long live SysWhispers!](https://klezvirus.github.io/RedTeaming/AV_Evasion/NoSysWhisper/)
