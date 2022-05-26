@@ -42,11 +42,16 @@ Massive thanks to @janoglezcampos for fixing my trash formatting and categorizin
 * [Writing Beacon Object Files: Flexible, Stealthy, and Compatible: Direct syscalls from the real ntdll to bypas syscall detection](https://www.cobaltstrike.com/blog/writing-beacon-object-files-flexible-stealthy-and-compatible/)
 * [Unhooking Sentinel1](https://twitter.com/ninjaparanoid/status/1493396083644399616?s=21)
 * [Kernel Karnage – Part 9 (Finishing Touches)](https://blog.nviso.eu/2022/02/22/kernel-karnage-part-9-finishing-touches/)
-
-
-## Campaing/Operation analysis
-
 * [Using the kernel callback table to execute code](https://blog.malwarebytes.com/threat-intelligence/2022/01/north-koreas-lazarus-apt-leverages-windows-update-client-github-in-latest-campaign/)
+* [Invisible Sandbox Evasion](https://research.checkpoint.com/2022/invisible-cuckoo-cape-sandbox-evasion/)
+* [Important: Reduce ur entropy](https://twitter.com/hardwaterhacker/status/1502425183331799043?s=21)
+
+## Operational stuff - OPSEC, TTPs, etc.
+
+* [Parent-child process strcuture](https://mrd0x.com/introduction-to-parent-child-process-evasion/)
+
+## Campaign/Operation analysis
+
 * [Observations from the stellarparticle-campaign](https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/)
 * [Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations/)
 * [Browser In The Browser (BITB) Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
@@ -59,6 +64,9 @@ Massive thanks to @janoglezcampos for fixing my trash formatting and categorizin
 * [Revisiting Phishing Simulations](https://posts.specterops.io/revisiting-phishing-simulations-94d9cd460934)
 * [Phishing page detection via learning classifiers from page layout feature](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-019-1361-0)
 * [List of crowd-sourced phishing sites. Some are still active](https://phishtank.com)
+* [mrd0x - phishing with spoofed cloud attachments](https://mrd0x.com/phishing-o365-spoofed-cloud-attachments/)
+* [mrd0x - teams abuse](https://mrd0x.com/microsoft-teams-abuse/)
+* [mrd0x - phishing with .ics](https://mrd0x.com/spoofing-calendar-invites-using-ics-files/)
 
 ## Active Directory
 
@@ -68,13 +76,10 @@ Massive thanks to @janoglezcampos for fixing my trash formatting and categorizin
 * [Announcing Azure in BloodHound Enterprise](https://posts.specterops.io/announcing-azure-in-bloodhound-enterprise-b1a900557cda)
 * [AD Trusts](https://medium.com/sse-blog/active-directory-spotlight-trusts-part-2-operational-guidance-ada54ac3bf13) 
 * [Learn AD basics](https://www.udemy.com/course/active-directory/)
+
 ## Initial Access
 
 * [How to Deliver Payloads in an Enterprise Attack with Steve Borosh](https://www.youtube.com/watch?v=vVueJfWmpGc)
-
-## Sandbox detection
-
-* [Invisible Sandbox Evasion](https://research.checkpoint.com/2022/invisible-cuckoo-cape-sandbox-evasion/)
 
 
 ## Persistence
@@ -145,6 +150,7 @@ Massive thanks to @janoglezcampos for fixing my trash formatting and categorizin
 * [OffensiveNotion](https://github.com/mttaggart/OffensiveNotion)
 * [We Put A C2 In Your Notetaking App: OffensiveNotion](https://medium.com/@huskyhacks.mk/we-put-a-c2-in-your-notetaking-app-offensivenotion-3e933bace332)
 * [Building C2 implants in C++](https://shogunlab.gitbook.io/building-c2-implants-in-cpp-a-primer/)
+* [C2 matrix - all your c2 needs here](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0)
 
 ## Blue Team - how we get burnt
 
@@ -152,7 +158,4 @@ Massive thanks to @janoglezcampos for fixing my trash formatting and categorizin
 * [TiEtwAgent – ETW-based process injection detection (cant unhook from userland)](https://securityonline.info/tietwagent-etw-based-process-injection-detection/)
 * [Detection Engineering](https://www.unh4ck.com/detection-engineering-dimensions)
 
-## Notes
-
-* [Important: Reduce ur entropy](https://twitter.com/hardwaterhacker/status/1502425183331799043?s=21)
 
