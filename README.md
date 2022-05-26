@@ -1,5 +1,6 @@
 # redteam/maldev links
 Massive thanks to @janoglezcampos for fixing my trash formatting and categorizing it. Now it wont give you eye cancer.
+I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing research I read and find useful will be put here.
 
 ## Evasion/Execution techs
 
