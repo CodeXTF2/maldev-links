@@ -46,10 +46,12 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Using the kernel callback table to execute code](https://blog.malwarebytes.com/threat-intelligence/2022/01/north-koreas-lazarus-apt-leverages-windows-update-client-github-in-latest-campaign/)
 * [Invisible Sandbox Evasion](https://research.checkpoint.com/2022/invisible-cuckoo-cape-sandbox-evasion/)
 * [Important: Reduce ur entropy](https://twitter.com/hardwaterhacker/status/1502425183331799043?s=21)
+* [compile your code into mov instructions](https://github.com/xoreaxeaxeax/movfuscator)
 
 ## Operational stuff - OPSEC, TTPs, etc.
 
 * [Parent-child process strcuture](https://mrd0x.com/introduction-to-parent-child-process-evasion/)
+* [Echotrail - windows process stats](https://https://www.echotrail.io/)
 
 ## Campaign/Operation analysis
 
