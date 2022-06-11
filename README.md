@@ -48,6 +48,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Important: Reduce ur entropy](https://twitter.com/hardwaterhacker/status/1502425183331799043?s=21)
 * [compile your code into mov instructions](https://github.com/xoreaxeaxeax/movfuscator)
 * [HintInject](https://github.com/frkngksl/HintInject)
+* [Hooking via exceptions](https://medium.com/@fsx30/vectored-exception-handling-hooking-via-forced-exception-f888754549c6)
 
 ## Operational stuff - OPSEC, TTPs, etc.
 
