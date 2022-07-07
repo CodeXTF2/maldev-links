@@ -49,6 +49,8 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [compile your code into mov instructions](https://github.com/xoreaxeaxeax/movfuscator)
 * [HintInject](https://github.com/frkngksl/HintInject)
 * [Hooking via exceptions](https://medium.com/@fsx30/vectored-exception-handling-hooking-via-forced-exception-f888754549c6)
+* [APC techniques](https://github.com/repnz/apc-research)
+* [Stack Spoofing](https://github.com/countercept/CallStackSpoofer)
 
 ## Operational stuff - OPSEC, TTPs, etc.
 
@@ -81,6 +83,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Announcing Azure in BloodHound Enterprise](https://posts.specterops.io/announcing-azure-in-bloodhound-enterprise-b1a900557cda)
 * [AD Trusts](https://medium.com/sse-blog/active-directory-spotlight-trusts-part-2-operational-guidance-ada54ac3bf13) 
 * [Learn AD basics](https://www.udemy.com/course/active-directory/)
+* [Diamond attacks](https://www.trustedsec.com/blog/a-diamond-in-the-ruff/)
 
 ## Initial Access
 
