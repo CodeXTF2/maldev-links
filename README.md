@@ -4,6 +4,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 
 ## Evasion/Execution techs
 
+* [WORKSHOP // A journey into malicious code tradecraft for Windows // Silvio La Porta and Antonio Villani](https://vimeo.com/727453909) 
 * [Process injection sample codes](https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop)
 * [KnownDLLs injection](https://www.codeproject.com/Articles/325603/Injection-into-a-Process-Using-KnownDlls)
 * [Python library for ML evasion and detection etc](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
