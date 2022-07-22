@@ -166,5 +166,5 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [72-page eBook describing Endgame’s solution to hunting advanced cyberthreats](https://cyber-edge.com/resources/the-endgame-guide-to-threat-hunting/)
 * [TiEtwAgent – ETW-based process injection detection (cant unhook from userland)](https://securityonline.info/tietwagent-etw-based-process-injection-detection/)
 * [Detection Engineering](https://www.unh4ck.com/detection-engineering-dimensions)
-
+* [How I met your beacon (MDSec x33fcon talk)](https://www.mdsec.co.uk/2022/07/part-1-how-i-met-your-beacon-overview/)
 
