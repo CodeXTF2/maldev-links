@@ -5,8 +5,8 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 ## Hooking/unhooking
 * [Lets Create An EDR… And Bypass It! Part 1: How EDRs inject DLLs to hook processes](https://ethicalchaos.dev/2020/05/27/lets-create-an-edr-and-bypass-it-part-1/)
 * [Lets Create An EDR… And Bypass It! Part 2: Preventing the hook from loading into our process by preventing the DLL load](https://ethicalchaos.dev/2020/06/14/lets-create-an-edr-and-bypass-it-part-2/)
-* [Userland DLL hooks (C# code sample)](* [SharpUnhooker: Automatically Unhook API Hive](https://github.com/GetRektBoy724/SharpUnhooker))
-* [Evading userland DLL hooks in C# using D/Invoke](* [D-Pwn: practice AV/EDR evasion with D/Invoke](https://github.com/FatCyclone/D-Pwn))
+* [Userland DLL hooks C# code sample - SharpUnhooker]((https://github.com/GetRektBoy724/SharpUnhooker))
+* [Evading userland DLL hooks in C# using D/Invoke - D-Pwn]((https://github.com/FatCyclone/D-Pwn))
 * [Adventures in Dynamic Evasion; unhooking](https://posts.specterops.io/adventures-in-dynamic-evasion-1fe0bac57aa)
 * [Kernel callbacks](http://www.nynaeve.net/?p=200)
 * [Process instrumentation callbacks](https://winternl.com/detecting-manual-syscalls-from-user-mode/)
