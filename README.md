@@ -3,7 +3,6 @@ Massive thanks to @janoglezcampos for fixing my trash formatting and categorizin
 I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing research I read and find useful will be put here.
 
 ## Hooking/unhooking
-
 * [Lets Create An EDR… And Bypass It! Part 1: How EDRs inject DLLs to hook processes](https://ethicalchaos.dev/2020/05/27/lets-create-an-edr-and-bypass-it-part-1/)
 * [Lets Create An EDR… And Bypass It! Part 2: Preventing the hook from loading into our process by preventing the DLL load](https://ethicalchaos.dev/2020/06/14/lets-create-an-edr-and-bypass-it-part-2/)
 * [Userland DLL hooks (C# code sample)](* [SharpUnhooker: Automatically Unhook API Hive](https://github.com/GetRektBoy724/SharpUnhooker))
@@ -18,12 +17,10 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Halo's Gate: Dynamically resolving syscalls based on unhooked syscalls](https://blog.sektor7.net/#!res/2021/halosgate.md)
 
 # AMSI/ETW
-
 * [Attacks on ETW Blind EDR Sensors](https://i.blackhat.com/EU-21/Wednesday/EU-21-Teodorescu-Veni-No-Vidi-No-Vici-Attacks-On-ETW-Blind-EDRs.pdf)
 
 
 # Sleep obfuscation/masking
-
 * [Stack Spoofing](https://github.com/countercept/CallStackSpoofer)
 * [SleepyCrypt: Encrypting a running  PE  image while it sleeps](https://www.solomonsklash.io/SleepyCrypt-shellcode-to-encrypt-a-running-image.html)
 * [Sleeping with a Mask On (Cobalt Strike)](https://adamsvoboda.net/sleeping-with-a-mask-on-cobaltstrike/)
@@ -32,7 +29,6 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 
 
 # Direct syscalls
-
 * [SysWhispers is dead, long live SysWhispers!](https://klezvirus.github.io/RedTeaming/AV_Evasion/NoSysWhisper/)
 * [Combining Direct System Calls and sRDI to bypass AV/EDR](https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/)
 * [Implementing Syscalls in Cobalt Strike Part 1 - Battling Imports and Dependencies](https://blog.xenoscr.net/2022/03/12/Implementing-Syscalls-in-Cobalt-Strike-Part-1-Battling-Imports-and-Dependencies.html)
@@ -40,7 +36,6 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 
 
 # Process injection
-
 * [Process injection sample codes](https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop)
 * [KnownDLLs injection](https://www.codeproject.com/Articles/325603/Injection-into-a-Process-Using-KnownDlls)
 * [Abusing Windows’ Implementation of Fork() for Stealthy Memory Operations](https://billdemirkapi.me/abusing-windows-implementation-of-fork-for-stealthy-memory-operations/)
@@ -53,7 +48,6 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 
 
 ## General evasion/Execution techs
-
 * [WORKSHOP // A journey into malicious code tradecraft for Windows // Silvio La Porta and Antonio Villani](https://vimeo.com/727453909) 
 * [Python library for ML evasion and detection etc](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 * [Massive guide on bypassing anticheat and antidebug - also works in malware against EDRs](https://guidedhacking.com/forums/anticheat-bypass-antidebug-tutorials.46/)
