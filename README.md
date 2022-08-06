@@ -44,7 +44,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [APC techniques](https://github.com/repnz/apc-research)
 * [Unicode Reflection - Event Null Byte Injection](https://www.hawk.io/blog/unicode-reflection-event-null-byte-injection)
 * [Alternative Process Injection](https://www.netero1010-securitylab.com/evasion/alternative-process-injection)
-
+* [Weaponizing mapping injection](https://splintercod3.blogspot.com/p/weaponizing-mapping-injection-with.html)
 
 
 ## General evasion/Execution techs
