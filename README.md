@@ -4,6 +4,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 
 ## Hooking
 * [Kernel callbacks](http://www.nynaeve.net/?p=200)
+* [Process instrumentation callbacks](https://winternl.com/detecting-manual-syscalls-from-user-mode/)
 
 ## Evasion/Execution techs
 
