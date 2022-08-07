@@ -19,7 +19,8 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 
 # AMSI/ETW
 * [Attacks on ETW Blind EDR Sensors](https://i.blackhat.com/EU-21/Wednesday/EU-21-Teodorescu-Veni-No-Vidi-No-Vici-Attacks-On-ETW-Blind-EDRs.pdf)
-
+* [Detecting Adversarial Tradecrafts Tools by leveraging ETW](https://github.com/RedTeamOperations/Detecting-Adversarial-Tradecrafts-Tools-by-leveraging-ETW)
+* [Data Only Attack: Neutralizing EtwTi Provider](https://public.cnotools.studio/bring-your-own-vulnerable-kernel-driver-byovkd/exploits/data-only-attack-neutralizing-etwti-provider)
 
 # Sleep obfuscation/masking
 * [Stack Spoofing](https://github.com/countercept/CallStackSpoofer)
@@ -46,6 +47,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Unicode Reflection - Event Null Byte Injection](https://www.hawk.io/blog/unicode-reflection-event-null-byte-injection)
 * [Alternative Process Injection](https://www.netero1010-securitylab.com/evasion/alternative-process-injection)
 * [Weaponizing mapping injection](https://splintercod3.blogspot.com/p/weaponizing-mapping-injection-with.html)
+* [Advanced-Process-Injection-Workshop by CyberWarFare Labs](https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop)
 
 
 ## General evasion/Execution techs
@@ -118,12 +120,6 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 ## OSINT
 
 * [Nrich: Cli tool to quickly analyze all IPs in a file and see which ones have open ports/ vulnerabilities](https://gitlab.com/shodan-public/nrich)
-
-## Workshops/Labs
-
-* [Advanced-Process-Injection-Workshop by CyberWarFare Labs](https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop)
-* [Detecting Adversarial Tradecrafts Tools by leveraging ETW](https://github.com/RedTeamOperations/Detecting-Adversarial-Tradecrafts-Tools-by-leveraging-ETW)
-* [Data Only Attack: Neutralizing EtwTi Provider](https://public.cnotools.studio/bring-your-own-vulnerable-kernel-driver-byovkd/exploits/data-only-attack-neutralizing-etwti-provider)
 
 ## Tools
 
