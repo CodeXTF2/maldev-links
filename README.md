@@ -16,6 +16,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Emulating Covert Operations - Dynamic Invocation (Avoiding PInvoke & API Hooks)](https://thewover.github.io/Dynamic-Invoke/)
 * [Halo's Gate: Dynamically resolving syscalls based on unhooked syscalls](https://blog.sektor7.net/#!res/2021/halosgate.md)
 * [Shellcode detection using realtime kernel monitoring](https://www.countercraftsec.com/blog/post/shellcode-detection-using-realtime-kernel-monitoring/)
+* [EDR tampering](https://www.infosec.tirol/how-to-tamper-the-edr/)
 
 # AMSI/ETW
 * [Attacks on ETW Blind EDR Sensors](https://i.blackhat.com/EU-21/Wednesday/EU-21-Teodorescu-Veni-No-Vidi-No-Vici-Attacks-On-ETW-Blind-EDRs.pdf)
