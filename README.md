@@ -140,6 +140,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [SNOWCRASH: Create a scripts that can be launched on both Linux and Windows machines](https://github.com/redcode-labs/SNOWCRASH)
 
 ## Various contents
+* [Myths-About-External-C2](https://xret2pwn.github.io/Myths-About-External-C2/)
 * [Running shellcode in electron](https://barbellsandrootshells.com/electron-shellcode-loader)
 * [Cause & Effect…ive C2](https://www.ctus.io/2021/06/29/cause-effect-ive-c2/)
 * [Eye of the TIBER - A blend of red team trends](https://www.youtube.com/watch?v=qyo6Rmy2odI)
@@ -177,6 +178,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [We Put A C2 In Your Notetaking App: OffensiveNotion](https://medium.com/@huskyhacks.mk/we-put-a-c2-in-your-notetaking-app-offensivenotion-3e933bace332)
 * [Building C2 implants in C++](https://shogunlab.gitbook.io/building-c2-implants-in-cpp-a-primer/)
 * [C2 matrix - all your c2 needs here](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0)
+
 
 ## Blue Team - how we get burnt
 
