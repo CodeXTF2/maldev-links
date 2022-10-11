@@ -162,6 +162,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Cracked5pider/ReflectedDll.c: Get output from injected reflected dll](https://gist.github.com/Cracked5pider/8f6196b4da16368318a75ff3b1836195)
 * [Nt/Zw Mapping from Kernel32](https://github.com/EspressoCake/NativeFunctionStaticMap/blob/main/Native_API_Resolve.pdf)
 * [DEF CON 29 - Ben Kurtz - Offensive Golang Bonanza: Writing Golang Malware](https://www.youtube.com/watch?v=3RQb05ITSyk)
+* [A novel technique to communicate between threads using the standard ETHREAD structure](https://github.com/CodeXTF2/dearg-thread-ipc-stealth)
 
 ## Azure related:
 
