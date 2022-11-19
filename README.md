@@ -163,6 +163,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Nt/Zw Mapping from Kernel32](https://github.com/EspressoCake/NativeFunctionStaticMap/blob/main/Native_API_Resolve.pdf)
 * [DEF CON 29 - Ben Kurtz - Offensive Golang Bonanza: Writing Golang Malware](https://www.youtube.com/watch?v=3RQb05ITSyk)
 * [A novel technique to communicate between threads using the standard ETHREAD structure](https://github.com/CodeXTF2/dearg-thread-ipc-stealth)
+* [VX-Underground Black Mass 2022](https://papers.vx-underground.org/papers/Other/VXUG%20Zines/Black%20Mass%20Halloween%202022.pdf)
 
 ## Azure related:
 
