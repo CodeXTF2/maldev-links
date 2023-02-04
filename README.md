@@ -28,6 +28,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [SleepyCrypt: Encrypting a running  PE  image while it sleeps](https://www.solomonsklash.io/SleepyCrypt-shellcode-to-encrypt-a-running-image.html)
 * [Sleeping with a Mask On (Cobalt Strike)](https://adamsvoboda.net/sleeping-with-a-mask-on-cobaltstrike/)
 * [GPUSleep](https://github.com/oXis/GPUSleep)
+* [SilentMoonWalk - a thread stack spoofer](https://github.com/klezVirus/SilentMoonwalk)
 
 
 
