@@ -139,6 +139,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Pixload: Set of tools for creating/injecting payload into images](https://github.com/chinarulezzz/pixload)
 * [Cloak: Generate python payloads via msfvenom and inject them into python scripts](https://github.com/s0md3v/Cloak)
 * [SNOWCRASH: Create a scripts that can be launched on both Linux and Windows machines](https://github.com/redcode-labs/SNOWCRASH)
+* [D-Generate - syscall tracing](https://twitter.com/jonaslyk/status/1568450498579111936?lang=en)
 
 ## Various contents
 * [Myths-About-External-C2](https://xret2pwn.github.io/Myths-About-External-C2/)
