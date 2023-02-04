@@ -18,7 +18,9 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Shellcode detection using realtime kernel monitoring](https://www.countercraftsec.com/blog/post/shellcode-detection-using-realtime-kernel-monitoring/)
 * [EDR tampering](https://www.infosec.tirol/how-to-tamper-the-edr/)
 
-# AMSI/ETW
+# AMSI/ETW/ETW-TI
+* [Proxying DLL Loads for hiding ETW-TI call stack tracing](https://0xdarkvortex.dev/proxying-dll-loads-for-hiding-etwti-stack-tracing/)
+* [Evading ETW-TI call stack tracing using custom call stacks](https://0xdarkvortex.dev/hiding-in-plainsight/)
 * [Attacks on ETW Blind EDR Sensors](https://i.blackhat.com/EU-21/Wednesday/EU-21-Teodorescu-Veni-No-Vidi-No-Vici-Attacks-On-ETW-Blind-EDRs.pdf)
 * [Detecting Adversarial Tradecrafts Tools by leveraging ETW](https://github.com/RedTeamOperations/Detecting-Adversarial-Tradecrafts-Tools-by-leveraging-ETW)
 * [Data Only Attack: Neutralizing EtwTi Provider](https://public.cnotools.studio/bring-your-own-vulnerable-kernel-driver-byovkd/exploits/data-only-attack-neutralizing-etwti-provider)
@@ -81,12 +83,12 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 
 * [Parent-child process strcuture](https://mrd0x.com/introduction-to-parent-child-process-evasion/)
 * [Echotrail - windows process stats](https://https://www.echotrail.io/)
+* [Browser In The Browser (BITB) Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
 
 ## Campaign/Operation analysis
 
 * [Observations from the stellarparticle-campaign](https://www.crowdstrike.com/blog/observations-from-the-stellarparticle-campaign/)
 * [Ukraine Cyber Operations](https://github.com/curated-intel/Ukraine-Cyber-Operations/)
-* [Browser In The Browser (BITB) Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
 * [Russian State-Sponsored Cyber Actors Gain Network Access by Exploiting Default Multifactor Authentication Protocols and “PrintNightmare” Vulnerability #threatintel report](https://www.cisa.gov/uscert/ncas/alerts/aa22-074a)
 * [Post auth RCE based in malicious LUA plugin script upload SCADA controllers located in Russia](https://medium.com/@bertinjoseb/post-auth-rce-based-in-malicious-lua-plugin-script-upload-scada-controllers-located-in-russia-57044425ac38)
 * [Does This Look Infected? A Summary of APT41 Targeting U.S. State Governments](https://www.mandiant.com/resources/apt41-us-state-governments)
@@ -99,6 +101,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [mrd0x - phishing with spoofed cloud attachments](https://mrd0x.com/phishing-o365-spoofed-cloud-attachments/)
 * [mrd0x - teams abuse](https://mrd0x.com/microsoft-teams-abuse/)
 * [mrd0x - phishing with .ics](https://mrd0x.com/spoofing-calendar-invites-using-ics-files/)
+* [Phishing with Github](https://www.form3.tech/engineering/content/phishing-github)
 
 ## Active Directory
 
