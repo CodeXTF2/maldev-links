@@ -31,6 +31,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Sleeping with a Mask On (Cobalt Strike)](https://adamsvoboda.net/sleeping-with-a-mask-on-cobaltstrike/)
 * [GPUSleep](https://github.com/oXis/GPUSleep)
 * [SilentMoonWalk - a thread stack spoofer](https://github.com/klezVirus/SilentMoonwalk)
+* [CallStackMasker](https://github.com/Cobalt-Strike/CallStackMasker)
 
 
 
@@ -52,6 +53,9 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Alternative Process Injection](https://www.netero1010-securitylab.com/evasion/alternative-process-injection)
 * [Weaponizing mapping injection](https://splintercod3.blogspot.com/p/weaponizing-mapping-injection-with.html)
 * [Advanced-Process-Injection-Workshop by CyberWarFare Labs](https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop)
+* [Threadless inject](https://github.com/CCob/ThreadlessInject)
+* [Function hijacking](https://klezvirus.github.io/RedTeaming/AV_Evasion/FromInjectionToHijacking/)
+
 
 
 ## General evasion/Execution techs
