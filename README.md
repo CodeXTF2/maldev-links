@@ -34,7 +34,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [CallStackMasker](https://github.com/Cobalt-Strike/CallStackMasker)
 
 # Rootkits
-* (Bootlicker - UEFI rootkit)[https://github.com/realoriginal/bootlicker]
+* [Bootlicker - UEFI rootkit](https://github.com/realoriginal/bootlicker)
 * [Niddhogg - kernel driver rootkit](https://github.com/Idov31/Nidhogg)
 
 # Direct syscalls
