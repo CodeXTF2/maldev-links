@@ -61,6 +61,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 
 
 ## General evasion/Execution techs
+* [Operational challenges in offensive C - SpectreOps](https://posts.specterops.io/operational-challenges-in-offensive-c-355bd232a200)
 * [WORKSHOP // A journey into malicious code tradecraft for Windows // Silvio La Porta and Antonio Villani](https://vimeo.com/727453909) 
 * [Python library for ML evasion and detection etc](https://github.com/Trusted-AI/adversarial-robustness-toolbox)
 * [Massive guide on bypassing anticheat and antidebug - also works in malware against EDRs](https://guidedhacking.com/forums/anticheat-bypass-antidebug-tutorials.46/)
