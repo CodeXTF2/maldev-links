@@ -36,7 +36,9 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 # Rootkits
 * [Bootlicker - UEFI rootkit](https://github.com/realoriginal/bootlicker)
 * [Niddhogg - kernel driver rootkit](https://github.com/Idov31/Nidhogg)
-
+  
+# VBA
+* [VBA: resolving exports in runtime without NtQueryInformationProcess or GetProcAddress](https://adepts.of0x.cc/vba-exports-runtime/)
 # Direct syscalls
 * [SysWhispers is dead, long live SysWhispers!](https://klezvirus.github.io/RedTeaming/AV_Evasion/NoSysWhisper/)
 * [Combining Direct System Calls and sRDI to bypass AV/EDR](https://outflank.nl/blog/2019/06/19/red-team-tactics-combining-direct-system-calls-and-srdi-to-bypass-av-edr/)
