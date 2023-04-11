@@ -94,6 +94,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Parent-child process strcuture](https://mrd0x.com/introduction-to-parent-child-process-evasion/)
 * [Echotrail - windows process stats](https://https://www.echotrail.io/)
 * [Browser In The Browser (BITB) Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
+* [Black Hills Infosec - Coercion and relays](https://www.youtube.com/watch?v=b0lLxLJKaRs)
 
 ## Campaign/Operation analysis
 
