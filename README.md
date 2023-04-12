@@ -95,6 +95,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Echotrail - windows process stats](https://https://www.echotrail.io/)
 * [Browser In The Browser (BITB) Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
 * [Black Hills Infosec - Coercion and relays](https://www.youtube.com/watch?v=b0lLxLJKaRs)
+* [Pocket Guide to OPSEC in Adversary Emulation](https://ristbs.github.io/2023/02/08/your-pocket-guide-to-opsec-in-adversary-emulation.html)
 
 ## Campaign/Operation analysis
 
