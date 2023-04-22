@@ -124,6 +124,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [AD Trusts](https://medium.com/sse-blog/active-directory-spotlight-trusts-part-2-operational-guidance-ada54ac3bf13) 
 * [Learn AD basics](https://www.udemy.com/course/active-directory/)
 * [Diamond attacks](https://www.trustedsec.com/blog/a-diamond-in-the-ruff/)
+* [Certified Pre Owned (ADCS Abuse)](https://posts.specterops.io/certified-pre-owned-d95910965cd2)
 
 ## Initial Access
 
