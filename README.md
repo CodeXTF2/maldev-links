@@ -59,6 +59,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Advanced-Process-Injection-Workshop by CyberWarFare Labs](https://github.com/RedTeamOperations/Advanced-Process-Injection-Workshop)
 * [Threadless inject](https://github.com/CCob/ThreadlessInject)
 * [Function hijacking](https://klezvirus.github.io/RedTeaming/AV_Evasion/FromInjectionToHijacking/)
+* [Mockingjay (Reusing existing RWX memory) techniques](https://whiteknightlabs.com/2023/07/06/mockingjay-memory-allocation-primitive/)
 
 
 
