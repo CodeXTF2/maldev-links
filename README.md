@@ -86,6 +86,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Invisible Sandbox Evasion](https://research.checkpoint.com/2022/invisible-cuckoo-cape-sandbox-evasion/)
 * [Important: Reduce ur entropy](https://twitter.com/hardwaterhacker/status/1502425183331799043?s=21)
 * [compile your code into mov instructions](https://github.com/xoreaxeaxeax/movfuscator)
+* [Perfect DLL Hijacking](https://elliotonsecurity.com/perfect-dll-hijacking/)
 
 
 
