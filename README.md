@@ -17,6 +17,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Halo's Gate: Dynamically resolving syscalls based on unhooked syscalls](https://blog.sektor7.net/#!res/2021/halosgate.md)
 * [Shellcode detection using realtime kernel monitoring](https://www.countercraftsec.com/blog/post/shellcode-detection-using-realtime-kernel-monitoring/)
 * [EDR tampering](https://www.infosec.tirol/how-to-tamper-the-edr/)
+* [Offensive API Hooking](https://ilankalendarov.github.io/posts/offensive-hooking/)
 
 # AMSI/ETW/ETW-TI
 * [Proxying DLL Loads for hiding ETW-TI call stack tracing](https://0xdarkvortex.dev/proxying-dll-loads-for-hiding-etwti-stack-tracing/)
@@ -159,6 +160,9 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [SNOWCRASH: Create a scripts that can be launched on both Linux and Windows machines](https://github.com/redcode-labs/SNOWCRASH)
 * [D-Generate - syscall tracing](https://twitter.com/jonaslyk/status/1568450498579111936?lang=en)
 
+## Rootkits
+* [Lord of the ring0](https://idov31.github.io/2022/07/14/lord-of-the-ring0-p1.html)
+
 ## Various contents
 * [Myths-About-External-C2](https://xret2pwn.github.io/Myths-About-External-C2/)
 * [Running shellcode in electron](https://barbellsandrootshells.com/electron-shellcode-loader)
@@ -172,7 +176,6 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Conti leaked chats](https://github.com/tsale/translated_conti_leaked_comms)
 * [Conti source code](https://github.com/Cracked5pider/conti_locker)
 * [Attack Flow — Beyond Atomic Behaviors](https://medium.com/mitre-engenuity/attack-flow-beyond-atomic-behaviors-c646675cc793)
-* [Offensive API Hooking](https://ilankalendarov.github.io/posts/offensive-hooking/)
 * [VBA and Function Pointers](https://secureyourit.co.uk/wp/2020/11/28/vbafunctionpointers/)
 * [MalAPI: List of Windows Apis classified by usage in malware dev](https://malapi.io)
 * [Guest Diary (Etay Nir) Kernel Hooking Basics](https://isc.sans.edu/forums/diary/Guest+Diary+Etay+Nir+Kernel+Hooking+Basics/23155/)
