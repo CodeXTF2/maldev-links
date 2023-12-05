@@ -33,6 +33,8 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [GPUSleep](https://github.com/oXis/GPUSleep)
 * [SilentMoonWalk - a thread stack spoofer](https://github.com/klezVirus/SilentMoonwalk)
 * [CallStackMasker](https://github.com/Cobalt-Strike/CallStackMasker)
+* [Advanced module stoping using AceLdr](https://dtsec.us/2023-11-04-ModuleStompin/)
+
 
 # Rootkits
 * [Bootlicker - UEFI rootkit](https://github.com/realoriginal/bootlicker)
@@ -88,7 +90,6 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Important: Reduce ur entropy](https://twitter.com/hardwaterhacker/status/1502425183331799043?s=21)
 * [compile your code into mov instructions](https://github.com/xoreaxeaxeax/movfuscator)
 * [Perfect DLL Hijacking](https://elliotonsecurity.com/perfect-dll-hijacking/)
-* [Advanced module stoping using AceLdr](https://dtsec.us/2023-11-04-ModuleStompin/)
 
 
 
