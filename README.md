@@ -205,6 +205,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [We Put A C2 In Your Notetaking App: OffensiveNotion](https://medium.com/@huskyhacks.mk/we-put-a-c2-in-your-notetaking-app-offensivenotion-3e933bace332)
 * [Building C2 implants in C++](https://shogunlab.gitbook.io/building-c2-implants-in-cpp-a-primer/)
 * [C2 matrix - all your c2 needs here](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0)
+* [How GitLab's Red Team automates C2 testing](https://about.gitlab.com/blog/2023/11/28/how-gitlabs-red-team-automates-c2-testing/)
 
 
 ## Blue Team - how we get burnt
