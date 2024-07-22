@@ -2,7 +2,12 @@
 Massive thanks to @janoglezcampos for fixing my trash formatting and categorizing it. Now it wont give you eye cancer.
 I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing research I read and find useful will be put here.
 
-## Hooking/unhooking
+# Smartscreen and MOTW
+- [What is it that makes a Microsoft executable a Microsoft executable?](https://posts.specterops.io/what-is-it-that-makes-a-microsoft-executable-a-microsoft-executable-b43ac612195e)
+- [The Case of the Missing Digital Signatures Tab](https://blog.didierstevens.com/2008/01/11/the-case-of-the-missing-digital-signatures-tab/)
+- [Defender SmartScreen Deep Dive 02](https://emsroute.com/2022/12/14/defender-smartscreen-deep-dive-02/)
+
+# Hooking/unhooking
 * [Lets Create An EDR… And Bypass It! Part 1: How EDRs inject DLLs to hook processes](https://ethicalchaos.dev/2020/05/27/lets-create-an-edr-and-bypass-it-part-1/)
 * [Lets Create An EDR… And Bypass It! Part 2: Preventing the hook from loading into our process by preventing the DLL load](https://ethicalchaos.dev/2020/06/14/lets-create-an-edr-and-bypass-it-part-2/)
 * [Userland DLL hooks C# code sample - SharpUnhooker](https://github.com/GetRektBoy724/SharpUnhooker)
