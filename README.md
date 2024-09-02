@@ -140,6 +140,19 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 
 * [How to Deliver Payloads in an Enterprise Attack with Steve Borosh](https://www.youtube.com/watch?v=vVueJfWmpGc)
 
+## Windows Logon and Credential Security
+
+* [Windows Logon Process Deep Dive](https://techcommunity.microsoft.com/t5/itops-talk-blog/deep-dive-logging-on-to-windows/ba-p/2420705?WT.mc_id=modinfra-30798-socuff)
+* [How to Detect and Dump Credentials from the Windows Registry](https://www.praetorian.com/blog/how-to-detect-and-dump-credentials-from-the-windows-registry/)
+* [DPAPI Deep Dive](https://tierzerosecurity.co.nz/2024/01/22/data-protection-windows-api.html)
+* [Mimikatz SSP for Stealing Credentials at Logon](https://blog.xpnsec.com/exploring-mimikatz-part-2/)
+* [Kerberos Authentication Deep Dive](https://medium.com/@harikrishnanp006/deep-dive-into-kerberos-authentication-6c124bac26fb)
+* [Process Integrity Levels](https://redcanary.com/blog/threat-detection/better-know-a-data-source/process-integrity-levels/)
+* [Protected Processes in Windows (LSASS as a PPL)](https://support.kaspersky.com/common/windows/13905)
+* [Mimikatz WDigest (Storing Plaintext Credentials in Memory)](https://www.ired.team/offensive-security/credential-access-and-credential-dumping/forcing-wdigest-to-store-credentials-in-plaintext)
+* [Credential Defenses](https://book.hacktricks.xyz/windows-hardening/stealing-credentials/credentials-protections)
+* [Defeating Windows Defender Credential Guard](https://research.ifcr.dk/pass-the-challenge-defeating-windows-defender-credential-guard-31a892eee22)
+* [NTLM and NTLMv2 Challenge-Response](https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4)
 
 ## Persistence
 * [SharpEventPersist](https://github.com/improsec/SharpEventPersist)
