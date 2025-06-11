@@ -39,6 +39,14 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [SilentMoonWalk - a thread stack spoofer](https://github.com/klezVirus/SilentMoonwalk)
 * [CallStackMasker](https://github.com/Cobalt-Strike/CallStackMasker)
 * [Advanced module stoping using AceLdr](https://dtsec.us/2023-11-04-ModuleStompin/)
+* [Draugr - synthetic stack frame](https://github.com/NtDallas/Draugr)
+* [Cronos - sleep obf based on ekko](https://github.com/Idov31/Cronos)
+* [KrakenMask - APC and gadgets for sleep obf](https://github.com/NtDallas/KrakenMask)
+* [Shelter - ROP sleep obf (another one)](https://github.com/Kudaes/Shelter)
+* [B21 - using Tp* WinAPIs to have a clean callstack while sleeping](https://github.com/coremedic/B21)
+* [Pendulum - linux sleep obf](https://github.com/kyleavery/pendulum)
+* [PhaseDive - variant of Ekko](https://github.com/zimnyaa/PhaseDive)
+* [Sleep obf explained](https://www.binarydefense.com/resources/blog/understanding-sleep-obfuscation/)
 
 
 # Rootkits
@@ -105,7 +113,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Echotrail - windows process stats](https://https://www.echotrail.io/)
 * [Browser In The Browser (BITB) Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
 * [Black Hills Infosec - Coercion and relays](https://www.youtube.com/watch?v=b0lLxLJKaRs)
-* [Pocket Guide to OPSEC in Adversary Emulation](https://ristbs.github.io/2023/02/08/your-pocket-guide-to-opsec-in-adversary-emulation.html)
+* [Pocket Guide to OPSEC in Adversary Emulation](https://ristbs.github.io/2023/02/08/your-pocket-guide-to-opsec-in-adversary-emulation.html)q
 
 ## Campaign/Operation analysis
 
@@ -207,6 +215,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [DEF CON 29 - Ben Kurtz - Offensive Golang Bonanza: Writing Golang Malware](https://www.youtube.com/watch?v=3RQb05ITSyk)
 * [A novel technique to communicate between threads using the standard ETHREAD structure](https://github.com/CodeXTF2/dearg-thread-ipc-stealth)
 * [VX-Underground Black Mass 2022](https://papers.vx-underground.org/papers/Other/VXUG%20Zines/Black%20Mass%20Halloween%202022.pdf)
+* [Tradecraft Garden - by raphael mudge](https://aff-wg.org/2025/06/04/planting-a-tradecraft-garden/)
 
 ## Azure related:
 
