@@ -111,7 +111,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Life of a payload](https://attl4s.github.io/assets/pdf/Understanding_a_Payloads_Life.pdf)
 * [PPLMedic](https://github.com/itm4n/PPLmedic)
 * [Parent-child process strcuture](https://mrd0x.com/introduction-to-parent-child-process-evasion/)
-* [Echotrail - windows process stats](https://https://www.echotrail.io/)
+* [Echotrail - windows process stats](https://www.echotrail.io/) <-- this is now down, it leads to some weird coworking space service
 * [Browser In The Browser (BITB) Attack](https://mrd0x.com/browser-in-the-browser-phishing-attack/)
 * [Black Hills Infosec - Coercion and relays](https://www.youtube.com/watch?v=b0lLxLJKaRs)
 * [Pocket Guide to OPSEC in Adversary Emulation](https://ristbs.github.io/2023/02/08/your-pocket-guide-to-opsec-in-adversary-emulation.html)q
@@ -212,6 +212,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Guest Diary (Etay Nir) Kernel Hooking Basics](https://isc.sans.edu/forums/diary/Guest+Diary+Etay+Nir+Kernel+Hooking+Basics/23155/)
 * [BOF2shellcode — a tutorial converting a stand-alone BOF loader into shellcode](https://medium.com/falconforce/bof2shellcode-a-tutorial-converting-a-stand-alone-bof-loader-into-shellcode-6369aa518548)
 * [BOF Cocktails](https://rastamouse.me/bof-cocktails/)
+* [How to Hide Beacon During BOF Execution](https://www.ibm.com/think/x-force/how-to-hide-beacon-during-bof-execution)
 * [Cobalt Strike User Defined Reflective Loader (UDRL)](https://github.com/kyleavery/TitanLdr/tree/heapencrypt)
 * [DynamicWrapperEx – Windows API Invocation from Windows Script Host](https://www.contextis.com/en/blog/dynamicwrapperex-windows-api-invocation-from-windows-script-host?utm_source=linkedin&utm_medium=HootsuiteCTXIS&utm_campaign=649c522f-1883-4b51-8712-a299c4a9ac31)
 * [Cracked5pider/ReflectedDll.c: Get output from injected reflected dll](https://gist.github.com/Cracked5pider/8f6196b4da16368318a75ff3b1836195)
@@ -238,6 +239,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [C2 matrix - all your c2 needs here](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0)
 * [How GitLab's Red Team automates C2 testing](https://about.gitlab.com/blog/2023/11/28/how-gitlabs-red-team-automates-c2-testing/)
 * [Playing in the Tradecraft Garden of Beacon](https://www.cobaltstrike.com/blog/playing-in-the-tradecraft-garden-of-beacon)
+* [Defining Cobalt Strike Reflective Loader](https://www.ibm.com/think/x-force/defining-cobalt-strike-reflective-loader)
 
 
 ## Blue Team - how we get burnt
