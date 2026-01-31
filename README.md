@@ -38,6 +38,8 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [GPUSleep](https://github.com/oXis/GPUSleep)
 * [SilentMoonWalk - a thread stack spoofer](https://github.com/klezVirus/SilentMoonwalk)
 * [CallStackMasker](https://github.com/Cobalt-Strike/CallStackMasker)
+* [Reflective Call Stack Detections and Evasions](https://www.ibm.com/think/x-force/reflective-call-stack-detections-evasions)
+* [Behind the Mask: Spoofing Call Stacks Dynamically with Timers](https://www.cobaltstrike.com/blog/behind-the-mask-spoofing-call-stacks-dynamically-with-timers)
 * [Advanced module stoping using AceLdr](https://dtsec.us/2023-11-04-ModuleStompin/)
 * [Draugr - synthetic stack frame](https://github.com/NtDallas/Draugr)
 * [Cronos - sleep obf based on ekko](https://github.com/Idov31/Cronos)
