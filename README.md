@@ -103,6 +103,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Important: Reduce ur entropy](https://twitter.com/hardwaterhacker/status/1502425183331799043?s=21)
 * [compile your code into mov instructions](https://github.com/xoreaxeaxeax/movfuscator)
 * [Perfect DLL Hijacking](https://elliotonsecurity.com/perfect-dll-hijacking/)
+* [Evading Elastic Callstack Signatures](https://offsec.almond.consulting/evading-elastic-callstack-signatures.html)
 
 
 
@@ -161,6 +162,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Credential Defenses](https://book.hacktricks.xyz/windows-hardening/stealing-credentials/credentials-protections)
 * [Defeating Windows Defender Credential Guard](https://research.ifcr.dk/pass-the-challenge-defeating-windows-defender-credential-guard-31a892eee22)
 * [NTLM and NTLMv2 Challenge-Response](https://medium.com/@petergombos/lm-ntlm-net-ntlmv2-oh-my-a9b235c58ed4)
+* [Net-NTLMv1 Deprecation and Rainbow Tables](https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables)
 
 ## Persistence
 * [SharpEventPersist](https://github.com/improsec/SharpEventPersist)
@@ -187,6 +189,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Cloak: Generate python payloads via msfvenom and inject them into python scripts](https://github.com/s0md3v/Cloak)
 * [SNOWCRASH: Create a scripts that can be launched on both Linux and Windows machines](https://github.com/redcode-labs/SNOWCRASH)
 * [D-Generate - syscall tracing](https://twitter.com/jonaslyk/status/1568450498579111936?lang=en)
+* [Crystal-Kit](https://github.com/rasta-mouse/Crystal-Kit)
 
 ## Rootkits
 * [Lord of the ring0](https://idov31.github.io/2022/07/14/lord-of-the-ring0-p1.html)
@@ -208,6 +211,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [MalAPI: List of Windows Apis classified by usage in malware dev](https://malapi.io)
 * [Guest Diary (Etay Nir) Kernel Hooking Basics](https://isc.sans.edu/forums/diary/Guest+Diary+Etay+Nir+Kernel+Hooking+Basics/23155/)
 * [BOF2shellcode — a tutorial converting a stand-alone BOF loader into shellcode](https://medium.com/falconforce/bof2shellcode-a-tutorial-converting-a-stand-alone-bof-loader-into-shellcode-6369aa518548)
+* [BOF Cocktails](https://rastamouse.me/bof-cocktails/)
 * [Cobalt Strike User Defined Reflective Loader (UDRL)](https://github.com/kyleavery/TitanLdr/tree/heapencrypt)
 * [DynamicWrapperEx – Windows API Invocation from Windows Script Host](https://www.contextis.com/en/blog/dynamicwrapperex-windows-api-invocation-from-windows-script-host?utm_source=linkedin&utm_medium=HootsuiteCTXIS&utm_campaign=649c522f-1883-4b51-8712-a299c4a9ac31)
 * [Cracked5pider/ReflectedDll.c: Get output from injected reflected dll](https://gist.github.com/Cracked5pider/8f6196b4da16368318a75ff3b1836195)
@@ -233,6 +237,7 @@ I sometimes put stuff on [my blog](https://codex-7.gitbook.io/). Existing resear
 * [Building C2 implants in C++](https://shogunlab.gitbook.io/building-c2-implants-in-cpp-a-primer/)
 * [C2 matrix - all your c2 needs here](https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0)
 * [How GitLab's Red Team automates C2 testing](https://about.gitlab.com/blog/2023/11/28/how-gitlabs-red-team-automates-c2-testing/)
+* [Playing in the Tradecraft Garden of Beacon](https://www.cobaltstrike.com/blog/playing-in-the-tradecraft-garden-of-beacon)
 
 
 ## Blue Team - how we get burnt
