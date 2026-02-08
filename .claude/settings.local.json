@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python fix_links.py:*)",
+      "WebFetch(domain:archive.org)"
+    ]
+  }
+}
